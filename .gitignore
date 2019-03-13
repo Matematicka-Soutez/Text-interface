@@ -1,0 +1,5 @@
+*.lpi
+*.lps
+*.exe
+*/lib
+*/backup
